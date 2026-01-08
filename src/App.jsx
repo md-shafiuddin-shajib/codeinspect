@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./app.css";
 import Navbar from "./component/navbar.jsx";
 import Editor from "@monaco-editor/react";
 import Select from "react-select";
