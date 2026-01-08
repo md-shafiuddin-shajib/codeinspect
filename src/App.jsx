@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./component/navbar.jsx";
+import Navbar from "./component/Navbar.jsx";
 import Editor from "@monaco-editor/react";
 import Select from "react-select";
 import { GoogleGenAI } from "@google/genai";
