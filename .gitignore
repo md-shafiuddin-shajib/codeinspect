@@ -1,0 +1,23 @@
+ 
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#react,env
